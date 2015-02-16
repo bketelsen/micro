@@ -1,0 +1,9 @@
+package math;
+
+message Request {
+	required int32 num = 1;
+}
+
+message Response {
+	required int32 num = 1;
+}
